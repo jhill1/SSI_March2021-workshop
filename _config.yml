@@ -14,10 +14,10 @@
 #  https://github.com/carpentries/workshop-template
 # and for instructor training events you should use:
 #  https://github.com/carpentries/training-template
-carpentry: "cp"
+carpentry: ""
 
 # This option is currently only needed for
-# Data Carpentry and Software Carpentry workshops.
+# Data Carpentry and Software Carpentry workshop
 # The value of the variable will be ignored for Library Carpentry
 # workshops.
 # Possible values are:
@@ -27,7 +27,7 @@ carpentry: "cp"
 # dc-geospatial: for Data Carpentry Geospatial
 # swc-inflammation: for Software Carpentry based on the inflammation dataset
 # swc-gapminder: for Software Carpentry based on the Gapminder dataset
-curriculum: "swc-gapminder"
+curriculum: ""
 
 # If there is both an R and python official version of a curriculum
 # (as listed on https://software-carpentry.org/lessons/ and
